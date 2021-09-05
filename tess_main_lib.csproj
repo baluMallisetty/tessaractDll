@@ -6,5 +6,6 @@
 <ItemGroup>
    <EmbeddedResource Include="Resources\tessract5.zip">
    </EmbeddedResource>
+   <Reference Include="netstandard"/>
 </ItemGroup>  
 </Project>
