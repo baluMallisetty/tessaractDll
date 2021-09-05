@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "tess_main_lib/1.0.0": {
+        "runtime": {
+          "tess_main_lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tess_main_lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
