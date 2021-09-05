@@ -37,7 +37,7 @@ namespace tess_main_lib
                 CopyStream(input, output);
                 input.Close();
                 output.Close();
-                System.Threading.Thread.Sleep(5000);
+               // System.Threading.Thread.Sleep(5000);
                 //return path_lib_extraction;
                 //execure Process here and send Response back
                 ZipFile.ExtractToDirectory(path_lib_extraction, path);
