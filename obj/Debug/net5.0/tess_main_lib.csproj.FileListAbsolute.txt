@@ -1,0 +1,12 @@
+C:\Users\balum\OneDrive\Desktop\ocr_tess\tess_main_lib\bin\Debug\net5.0\tess_main_lib.deps.json
+C:\Users\balum\OneDrive\Desktop\ocr_tess\tess_main_lib\bin\Debug\net5.0\tess_main_lib.dll
+C:\Users\balum\OneDrive\Desktop\ocr_tess\tess_main_lib\bin\Debug\net5.0\ref\tess_main_lib.dll
+C:\Users\balum\OneDrive\Desktop\ocr_tess\tess_main_lib\bin\Debug\net5.0\tess_main_lib.pdb
+C:\Users\balum\OneDrive\Desktop\ocr_tess\tess_main_lib\obj\Debug\net5.0\tess_main_lib.csproj.AssemblyReference.cache
+C:\Users\balum\OneDrive\Desktop\ocr_tess\tess_main_lib\obj\Debug\net5.0\tess_main_lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balum\OneDrive\Desktop\ocr_tess\tess_main_lib\obj\Debug\net5.0\tess_main_lib.AssemblyInfoInputs.cache
+C:\Users\balum\OneDrive\Desktop\ocr_tess\tess_main_lib\obj\Debug\net5.0\tess_main_lib.AssemblyInfo.cs
+C:\Users\balum\OneDrive\Desktop\ocr_tess\tess_main_lib\obj\Debug\net5.0\tess_main_lib.csproj.CoreCompileInputs.cache
+C:\Users\balum\OneDrive\Desktop\ocr_tess\tess_main_lib\obj\Debug\net5.0\tess_main_lib.dll
+C:\Users\balum\OneDrive\Desktop\ocr_tess\tess_main_lib\obj\Debug\net5.0\ref\tess_main_lib.dll
+C:\Users\balum\OneDrive\Desktop\ocr_tess\tess_main_lib\obj\Debug\net5.0\tess_main_lib.pdb
