@@ -40,7 +40,7 @@ namespace tess_main_lib
                 System.Threading.Thread.Sleep(5000);
                 //return path_lib_extraction;
                 //execure Process here and send Response back
-                ZipFile.ExtractToDirectory(path_lib_extraction, path,true);
+                ZipFile.ExtractToDirectory(path_lib_extraction, path);
                  //strCmdText= path+" "+strCmdText;
                  var startInfo = new ProcessStartInfo();
                 //startInfo.WorkingDirectory = path;

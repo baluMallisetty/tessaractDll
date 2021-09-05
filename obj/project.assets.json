@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
+    ".NETFramework,Version=v4.7.1": {
       "Microsoft.NETCore.Platforms/1.1.0": {
         "type": "package",
         "compile": {
@@ -11,7 +11,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "NETStandard.Library/2.0.3": {
+      "NETStandard.Library/2.0.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
@@ -44,15 +44,16 @@
         "runtime.json"
       ]
     },
-    "NETStandard.Library/2.0.3": {
-      "sha512": "st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+    "NETStandard.Library/2.0.0": {
+      "sha512": "7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
       "type": "package",
-      "path": "netstandard.library/2.0.3",
+      "path": "netstandard.library/2.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
+        "build/NETStandard.Library.targets",
         "build/netstandard2.0/NETStandard.Library.targets",
         "build/netstandard2.0/ref/Microsoft.Win32.Primitives.dll",
         "build/netstandard2.0/ref/System.AppContext.dll",
@@ -169,14 +170,14 @@
         "build/netstandard2.0/ref/netstandard.dll",
         "build/netstandard2.0/ref/netstandard.xml",
         "lib/netstandard1.0/_._",
-        "netstandard.library.2.0.3.nupkg.sha512",
+        "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "NETStandard.Library >= 2.0.3"
+    ".NETFramework,Version=v4.7.1": [
+      "NETStandard.Library >= 2.0.0"
     ]
   },
   "packageFolders": {
@@ -185,24 +186,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\balum\\OneDrive\\Desktop\\ocr_tess\\tess_main_lib\\tess_main_lib.csproj",
+      "projectUniqueName": "C:\\Users\\balum\\OneDrive\\Desktop\\ocr_tess\\tess_main_lib\\tess_main_lib.csproj",
       "projectName": "tess_main_lib",
-      "projectPath": "c:\\Users\\balum\\OneDrive\\Desktop\\ocr_tess\\tess_main_lib\\tess_main_lib.csproj",
+      "projectPath": "C:\\Users\\balum\\OneDrive\\Desktop\\ocr_tess\\tess_main_lib\\tess_main_lib.csproj",
       "packagesPath": "C:\\Users\\balum\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\balum\\OneDrive\\Desktop\\ocr_tess\\tess_main_lib\\obj\\",
+      "outputPath": "C:\\Users\\balum\\OneDrive\\Desktop\\ocr_tess\\tess_main_lib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\balum\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net471"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net471": {
+          "targetAlias": "net471",
           "projectReferences": {}
         }
       },
@@ -213,27 +214,12 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net471": {
+        "targetAlias": "net471",
         "dependencies": {
           "NETStandard.Library": {
             "target": "Package",
-            "version": "[2.0.3, )"
-          }
-        },
-        "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
-        ],
-        "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
+            "version": "[2.0.0, )"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
