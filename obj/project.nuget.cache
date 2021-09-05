@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "bUzA6/NYAbLwCzKiWi+iAaKI0lS4dCVp2m1s/h3Fv3mhkj8s2+AhEeyYVolN40mHL/e80H9umukYTd89f9CAgw==",
+  "dgSpecHash": "HmiGRJZzio6a6j3y1i0GuyvPAP3uppxzTvPQHUvBP9T74fFwryEkWDpVKB3fpsroxTN2zM2V8MC01CZdRCqlDw==",
   "success": true,
   "projectFilePath": "C:\\Users\\balum\\OneDrive\\Desktop\\ocr_tess\\tess_main_lib\\tess_main_lib.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\balum\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\balum\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
